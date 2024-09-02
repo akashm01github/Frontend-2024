@@ -1,0 +1,39 @@
+body {
+    background: #FFDBB5;
+}
+
+a{
+    color: black;
+    font-size: 30px
+}
+
+
+img{
+    max-width: 50%;
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 2px solid black;
+}
+
+
+h1, p{
+    border: 1px solid black;
+}
+
+span{
+    border: 1px solid rebeccapurple;
+}
+
+#title{
+    background-color: #AD49E1;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+
