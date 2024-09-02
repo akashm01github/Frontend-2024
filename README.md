@@ -1,4 +1,4 @@
-# 🚀 Akash's Daily Code and Projects Repository
+# 🚀 Akash's Front End Preparation
 
 ![coding-gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -8,11 +8,11 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 
 | **Day** | **Date**    | **Topic/Project**                              | **Description**                                                      |
 |---------|-------------|------------------------------------------------|----------------------------------------------------------------------|
-| Day 1   | YYYY-MM-DD  | [Project Name](link)                           | Brief description of what was worked on today.                        |
-| Day 2   | YYYY-MM-DD  | [Topic/Concept](link)                          | Summary of the code or concept learned and implemented.               |
-| Day 3   | YYYY-MM-DD  | [Project Name](link)                           | Brief description of the project and any challenges faced.            |
-| Day 4   | YYYY-MM-DD  | [Bug Fix/Optimization](link)                   | Detailed log of the bug encountered and how it was resolved.          |
-| Day 5   | YYYY-MM-DD  | [New Feature Implementation](link)             | Description of new features added to an existing project.             |
+| Day 1   | YYYY-MM-DD  | [HTML]                                         | Today I learn about HTML .                                           |
+| Day 2   | YYYY-MM-DD  | [Topic/Concept]                                | Summary of the code or concept learned and implemented.              |
+| Day 3   | YYYY-MM-DD  | [Project Name]                                 | Brief description of the project and any challenges faced.           |
+| Day 4   | YYYY-MM-DD  | [Bug Fix/Optimization]                         | Detailed log of the bug encountered and how it was resolved.         |
+| Day 5   | YYYY-MM-DD  | [New Feature Implementation]                   | Description of new features added to an existing project.            |
 | ...     | ...         | ...                                            | ...                                                                  |
 
 _(The table will be updated daily as I progress.)_
