@@ -6,11 +6,12 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 
 ## 📅 Daily Topics and Projects
 
-| Day   | Date       | Topic/Project                | Description                                          |
-|-------|------------|------------------------------|------------------------------------------------------|
-| Day-1 | 01/09/2024 | HTML                         | Today I learned about HTML.                          |
-| Day-2 | 02/09/2024 | Project Using HTML           | Created a small project using HTML elements.         |
-| Day-3 | 03/09/2024 | Semantic Tag, HTML Element   | A semantic tag describes content meaningfully.       |
+| Day   | Date       | Topic/Project              | Description                                          |
+|-------|------------|----------------------------|------------------------------------------------------|
+| [Day-1](https://github.com/akashm01github/Frontend-2024/tree/main/Day-1/1.%20HTML) | 01/09/2024 | HTML                       | Today I learned about HTML.                           |
+| [Day-2](https://github.com/akashm01github/Frontend-2024/tree/main/Day-2) | 02/09/2024 | Project Using HTML          | Created a small project using HTML elements.          |
+| Day-3 | 03/09/2024 | Semantic Tag, HTML Element  | A semantic tag describes content meaningfully.        |
+
 
 
                                                       
