@@ -1,0 +1,15 @@
+h1{
+    background-color: #C4DAD2;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.akash{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: blueviolet;
+    font-size: 30px;
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
+}
