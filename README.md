@@ -1,6 +1,6 @@
 # 🚀 Akash's Front End Preparation
 
-![coding-gif](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![coding-gif](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
 
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
 
