@@ -4,6 +4,12 @@
 
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
 
+## 🛠️ Technologies & Tools
+
+![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/git.png) ![Figma](https://img.icons8.com/color/48/figma.png)
+
+
+
 ## 📅 Daily Topics and Projects
 
 | Day   | Date       | Topic/Project               | Description                                          |
@@ -17,8 +23,5 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 _(The table will be updated daily as I progress.)_
 
 
-## 🛠️ Technologies & Tools
-
-![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/git.png) ![Figma](https://img.icons8.com/color/48/figma.png)
 
 
