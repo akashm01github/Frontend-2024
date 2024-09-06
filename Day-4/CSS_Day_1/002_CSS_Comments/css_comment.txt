@@ -1,0 +1,8 @@
+/*  Some Text    */  ---> Single line Comment.
+
+/*                               |
+color : Black;                   | ( Muultiline Comment. )                  
+margin : 20px';                  |
+text-align: center;              |
+*/
+

@@ -1,0 +1,19 @@
+Basics Concept: 
+CSS Background
+CSS Font
+CSS Font-weight
+CSS Margins
+CSS Paddings
+
+
+Medium:
+CSS Flexbox
+CSS Grid
+CSS Pseudo-classes
+
+Advanced:
+CSS Variables
+CSS Math Functions
+CSS Animation
+Responsive Webdesign
+

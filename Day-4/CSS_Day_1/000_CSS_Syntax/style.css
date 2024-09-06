@@ -1,0 +1,15 @@
+/* 
+h1 => Selector
+color => Property
+red => Value 
+*/
+
+h1{
+    color: red; /* => Declaration */
+    font-size: 60px;  /* => Declaration */
+}
+
+p{
+    color: blue;  /* => Declaration */
+    font-size: 18px;  /* => Declaration */
+}

@@ -1,0 +1,48 @@
+/* 
+h1 => Selector
+color => Property
+red => Value 
+*/
+
+h1{
+    color: red; /* => Declaration */
+    font-size: 60px;  /* => Declaration */
+}
+
+p{
+    color: blue;  /* => Declaration */
+    font-size: 18px;  /* => Declaration */
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: aqua;
+    margin-bottom: 20px;
+}
+
+div p{
+    color: black;
+}
+
+.text-bk{
+    color: red;
+    text-align: center;
+    background-color: aqua;
+    margin: 20px;
+}
+
+.first-div{
+    background-color: blueviolet;
+    
+}
+
+.first-div p{
+    color: white;
+}
+
+#big_div , 
+#big_div-2{
+    width: 400px;
+}
+
