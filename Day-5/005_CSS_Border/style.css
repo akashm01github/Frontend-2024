@@ -1,0 +1,21 @@
+h1{
+    /* border-style: outset;
+    border-width: 10px; */
+    border-color: aqua;
+
+
+    /* Shorthand */
+    /* border: 10px solid red; */
+
+    /* border-radius: 50px; */
+
+    border-bottom: 8px solid firebrick;
+    border-right: 8px solid firebrick;
+    border-top: 8px solid firebrick;
+    border-left: 8px solid firebrick;
+
+
+    border-left-style: dotted ;
+    border-right-style: dashed ;
+    border-bottom-style: groove ;
+}

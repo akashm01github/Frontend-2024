@@ -1,0 +1,23 @@
+body{
+    background: url(bg.jpg);
+    background-attachment: fixed;
+}
+
+div{
+    background-color: rgba(240, 128, 128,0.7);
+    background-image: url(css.png);
+    background-size: 150px 150px;
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-position: bottom left;
+    background-position: bottom right;
+    background-position: top right;
+    background-position: 50px 25px;
+    background-position: center right;
+
+    /* Shorthand */
+    background: #F05A7E url(css.png) no-repeat center;
+    
+}

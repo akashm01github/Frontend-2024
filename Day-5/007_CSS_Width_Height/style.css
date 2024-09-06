@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* CSS-এ Liquid Width হল এমন একটি layout, যা স্ক্রিনের আকার অনুযায়ী Width পরিবর্তন করে।
+ এটি সাধারণত শতাংশ (%) ব্যবহার করে তৈরি করা হয়। */
+
+/* এটি ব্রাউজারের আকারের 70% Width নেবে। */
+
+/* .parent {
+    background: #295F98;
+    color: #F5F7F8;
+    width: 70%;
+} */
+
+
+
+/* html, body{
+    height: 100%;
+} */
+
+
+html{
+    height: 100%;
+}
+
+
+body{
+    height: inherit;
+}
+.parent {
+    background: #295F98;
+    /* color: #F5F7F8; */
+    margin: 20px auto;
+    padding: 2%;
+    width: 92%;
+    /* max-width: 1140px; */
+    /* min-width: 600px; */
+
+/* 
+height: 100% কাজ না করলে, তার কারণ প্যারেন্ট কন্টেইনারের উচ্চতা সেট করা নেই। 
+প্যারেন্ট এবং উপরের সব এলিমেন্টে height: 100% দিতে হবে। */
+
+
+    height: inherit;
+    /* max-height: 300px; */
+
+
+
+}
