@@ -16,22 +16,8 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 
 _(The table will be updated daily as I progress.)_
 
-## 📂 Folder Structure
+## 🛠️ Technologies & Tools
 
-```bash
-├── Day_1/
-│   ├── project/
-│   └── README.md
-├── Day_2/
-│   ├── topic/
-│   └── README.md
-├── Day_3/
-│   ├── topic/
-│   └── README.md
-├── Day_4/
-│   ├── topic/
-│   └── README.md
-├── Day_5/
-│   ├── topic/
-│   └── README.md
-└── ...
+<img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="50" height="50"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="50" height="50"/>
