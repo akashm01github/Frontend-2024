@@ -16,7 +16,6 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 
 _(The table will be updated daily as I progress.)_
 
-## 🛠️ Technologies & Tools
 
 ## 🛠️ Technologies & Tools
 
