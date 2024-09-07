@@ -1,0 +1,13 @@
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+div{
+    background-color: rgba(247, 181, 202, 0.667);
+    /* background-image: url(bg.jpg); */
+    
+    /* background-size: cover; */
+    /* background-size: 100px; */
+}

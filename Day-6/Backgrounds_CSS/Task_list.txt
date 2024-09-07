@@ -1,0 +1,52 @@
+Here are some tasks to help you practice various background properties in CSS:
+
+### Task 1: Solid Background Color
+- **Objective:** Create a `div` with a solid background color.
+- **Instructions:**
+  - Set the background color to `#3498db` (or any color of your choice).
+  - Add some padding (e.g., 20px) inside the `div`.
+  - Add a text like "Solid Background" inside the `div`.
+
+### Task 2: Background Image with Color Overlay
+- **Objective:** Add a background image with a semi-transparent color overlay.
+- **Instructions:**
+  - Set a background image of your choice inside a `div`.
+  - Add a semi-transparent background color using `rgba()` (e.g., `rgba(0, 0, 0, 0.5)` for a dark overlay).
+  - Use the `background-blend-mode: overlay;` property.
+
+### Task 3: Background Positioning
+- **Objective:** Position a background image at different locations.
+- **Instructions:**
+  - Add a background image to a `div`.
+  - Use the `background-position` property to place the image at the center, top-right, and bottom-left positions.
+  - Try different values like `center center`, `right top`, and `left bottom`.
+
+### Task 4: Background Size
+- **Objective:** Control the size of the background image.
+- **Instructions:**
+  - Add a background image to a `div`.
+  - Use `background-size` with values like `cover`, `contain`, and specific sizes (e.g., `100px 50px`).
+  - Observe how the image scales with different sizes.
+
+### Task 5: Background Repeat
+- **Objective:** Experiment with background repeat options.
+- **Instructions:**
+  - Add a small repeating background image (like a pattern).
+  - Use `background-repeat` to repeat the image both horizontally and vertically, only horizontally, or not at all.
+  - Try using `background-repeat: repeat-x`, `repeat-y`, and `no-repeat`.
+
+### Task 6: Gradient Background
+- **Objective:** Apply linear and radial gradients as background.
+- **Instructions:**
+  - Create a `div` with a linear gradient background using `background: linear-gradient()`.
+  - Experiment with different color stops and directions (e.g., `to right`, `to bottom left`).
+  - Create another `div` with a radial gradient background using `background: radial-gradient()`.
+
+### Task 7: Fixed Background Image
+- **Objective:** Make the background image stay fixed while scrolling.
+- **Instructions:**
+  - Set a large height for your `div` (e.g., `800px`) and add some scrollable content.
+  - Add a background image to the `div` and use `background-attachment: fixed`.
+  - Scroll through the content and observe the fixed background.
+
+Let me know if you want any clarification or further assistance with these tasks!

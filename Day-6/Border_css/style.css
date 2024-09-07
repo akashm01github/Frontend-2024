@@ -1,0 +1,38 @@
+.parent{
+    width: 300px;
+    height: 300px;
+    background-color: #D2E0FB;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+.one{
+    background-color: #F0A8D0;
+    width: 200px;
+    height: 200px;
+    border: 3px dashed red;
+    margin-bottom: 20px;
+}
+.two{
+    background-color: #F7B5CA;
+    width: 200px;
+    height: 200px;
+    border: 5px double blue;
+    margin-bottom: 20px;
+}
+.three{
+    background-color: #FFEBD4;
+    width: 200px;
+    height: 200px;
+    border: 2px dotted green;
+    
+}
+
+p{
+    text-align: center;
+}

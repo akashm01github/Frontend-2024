@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.first_div{
+    width: 600px;
+    height: 600px;
+    background: url(bg.jpg);
+    background-color: rgba(181, 237, 68, 0.5);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+
+    margin: 20px auto;
+    
+}
+
+
+h1{
+    color: rgba(206, 24, 24, 0.374);
+}
+
+
+.second_div{
+    background-color: #D2E0FB;
+    background-image: url(bg.jpg);
+    background-size: 150px;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}

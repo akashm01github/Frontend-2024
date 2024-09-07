@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 50%;
+}
+
+body{
+    height: inherit;
+}
+
+.parent{
+    background-color: #DDFFBC;
+
+    width: 26%;
+    margin: 1%;
+    padding: 2%;
+    border: 0.5em solid black;
+    float: left;
+
+    
+}

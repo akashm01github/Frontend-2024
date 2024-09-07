@@ -1,0 +1,17 @@
+*{
+    margin:  0;
+    padding: 0;
+}
+
+
+div{
+    background-color: #D0B8A8;
+    background-image: url(bg.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position: top right;
+    background-position: bottom left;
+    background-position: center center;
+
+}
