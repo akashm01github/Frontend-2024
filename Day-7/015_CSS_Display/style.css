@@ -1,0 +1,27 @@
+h1{
+    background-color: #FFCDB5;
+}
+p{
+    background-color: #86B6F6;
+}
+
+span{
+    background-color: #7DCE13;
+}
+
+div{
+    background-color: #A78295;
+}
+
+a{
+    background-color: #EBCFC4;
+    color: black;
+}
+
+
+h2{
+    background-color: #E9007F;
+    color: white;
+
+    display: inline;
+}
