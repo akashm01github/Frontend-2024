@@ -1,0 +1,25 @@
+div{
+    background-color: #FFEEA9;
+    padding: 20px 5%;
+
+    overflow: visible;
+
+    width: 90%;
+
+    height: 200px;
+
+    overflow: hidden;
+
+    overflow: scroll;
+
+    overflow: auto;
+
+    overflow-x: hidden;
+    overflow-y: auto;
+
+
+}
+
+p{
+    width: 600px;
+}

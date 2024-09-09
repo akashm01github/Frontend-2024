@@ -1,0 +1,57 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: #FFEEA9;
+
+    margin: 0;
+}
+
+.parent{
+    position: relative;
+    top: 50px;
+    left: 50px;
+}
+
+
+.child1{
+    background-color: #836FFF;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 50%;
+    margin-left: -25px;
+    top: 50%;
+
+    margin-top: -25px;
+
+    z-index: 4;
+}
+.child2{
+    background-color: #FFB200;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    margin-left: -25px;
+    top: 50%;
+
+    margin-top: -50px;
+    z-index: 3;
+    
+    
+}
+.child3{
+    background-color: #C40C0C;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    left: 50%;
+    margin-left: -25px;
+    top: 50%;
+
+    margin-top: -50px;
+
+    z-index: 2;
+    
+    
+}

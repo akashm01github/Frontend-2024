@@ -1,0 +1,44 @@
+/* .car1{
+    width: 100px;
+    height: 140px;
+    background-color: #0D7C66;
+}
+.car2{
+    width: 80px;
+    height: 120px;
+    background-color: #FF9874;
+    position: absolute;
+    top: 10px;
+    left: 50px;
+}
+.car3{
+    width: 105px;
+    height: 90px;
+    background-color: #FFF455;
+
+    position: absolute;
+    top: 0;
+    left: 10%;
+} */
+
+
+.box{
+    width: 400px;
+    height: 300px;
+    background-color: #8E3E63;
+
+
+    position: relative;
+
+
+
+}
+
+.cube{
+    width: 70px;
+    height: 70px;
+    background-color: #41B06E;
+
+    position: absolute;
+    left: 50%;
+}

@@ -1,0 +1,59 @@
+a:hover{
+    color: red;
+}
+a:visited{
+    color: black;
+}
+
+
+li:first-child{
+    color: rgb(49, 230, 29);
+}
+li:last-child{
+    color: red;
+}
+
+
+li:nth-child(2n+2){
+    color: blue;
+}
+
+
+body{
+    background-color: #dfd5d5;
+    background-image: url(bg.jpg);
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+body::after{
+    content: "Element";
+    background-image: url(bg.jpg);
+    background-size: 300px 300px;
+}
+
+
+body::before{
+    content: "Element";
+    background-image: url(bg.jpg);
+    background-size: 300px 300px;
+}
+
+
+p::first-line{
+    color: red;
+    font-weight: bold;
+}
+
+
+
+p::first-letter{
+    color: #6F4C5B;
+    font-size: 30px;
+}
+
+
+p::selection{
+    background-color: #F9E400;
+}

@@ -1,0 +1,59 @@
+body{
+    margin: 0;
+}
+
+
+
+div{
+    background-color: #D01257;
+
+    width: 400px;
+    height: 400px;
+
+    margin: 0;
+    /* margin-left: 20px;
+    margin-top: 20px; */
+}
+.main{
+    background-color: #D01257;
+    width: 400px;
+    height: 400px;
+    position: relative; /*Default Is Static.*/
+    top: 50px;
+    left: 50px;
+}
+
+.sec{
+    background-color: #E9A8F2;
+    width: 100px;
+    height: 100px;
+
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+
+.child{
+    width: 50px;
+    height: 50px;
+    background-color: #41B3A2;
+    position: absolute;
+    /* left: auto; */
+    /* right: 0; */
+    bottom: 0;
+    left: 50%;
+    margin-left: -25px;
+    margin-top: -25px;
+    top: 50%;
+
+}
+
+.stk{
+    background-color: #FFCBCB;
+    width: 100%;
+    height: 100px;
+    position: sticky;
+    top: 0;
+}
+
