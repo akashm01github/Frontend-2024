@@ -1,4 +1,3 @@
-Here is the markdown code for the content you provided:
 
 ```markdown
 # CSS Combinators
@@ -53,4 +52,3 @@ h1 ~ p {
 CSS কম্বিনেটরগুলো এলিমেন্টদের সম্পর্ক অনুযায়ী স্টাইল অ্যাপ্লাই করতে ব্যবহৃত হয়, যা আমাদের কোডকে আরো নিখুঁতভাবে টার্গেট করতে সাহায্য করে।
 ```
 
-You can paste this markdown code directly into your README file.

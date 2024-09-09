@@ -1,4 +1,3 @@
-You can add the provided CSS notes in your README file like this:
 
 ```markdown
 ## CSS Position এর নোটস (আধুনিক বাংলা):
