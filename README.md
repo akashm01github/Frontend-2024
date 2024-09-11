@@ -18,5 +18,8 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 | [Day-4](https://github.com/akashm01github/Frontend-2024/tree/main/Day-4) | 05/09/2024 | CSS Basics                  | Here I learned CSS syntax, selectors, comments, and colors. |
 | [Day-5](https://github.com/akashm01github/Frontend-2024/tree/main/Day-5) | 06/09/2024 | CSS Basics                  | Today I learned about: 1. Background 2. Border 3. Margin & Padding 4. Width & Height 5. Box Modeling 6. Text Decoration |
 | [Day-6](https://github.com/akashm01github/Frontend-2024/tree/main/Day-6) | 07/09/2024 | CSS Practice                | Today I practiced: 1. Background 2. Border 3. Margin & Padding 4. Width & Height 5. Box Modeling 6. Text Decoration |
+| [Day-7](https://github.com/akashm01github/Frontend-2024/tree/main/Day-7) | 08/09/2024 | CSS                         | CSS Font Style, CSS Icons, CSS Links, CSS Tables, and CSS Display. |
+| [Day-8](https://github.com/akashm01github/Frontend-2024/tree/main/Day-8) | 10/09/2024 | CSS                         | CSS Position, CSS Z-index, CSS Overflow, CSS Float, CSS Combinators, CSS Pseudo Classes & Elements. |
+| [Day-9](https://github.com/akashm01github/Frontend-2024/tree/main/Day-9) | 11/09/2024 | Project Using All of These Topics | Created a card element with animation. |
 
 _(The table will be updated daily as I progress.)_
