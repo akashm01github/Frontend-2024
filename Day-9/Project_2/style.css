@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&display=swap');
+
+
+/* Parent Div */
+.parent{
+    width: 300px;
+    margin: 25px auto;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Child Div */
+.child{
+    
+    padding: 10% 5%;
+    /* display: none; */
+    position: absolute;
+    width: 90%;
+    height: 87%;
+    top: -500px;
+    left: 0;
+    z-index: 99;
+    
+}
+
+.parent img{
+    width: 100%;
+    height: 100%;
+    display: block;
+    max-width: 100%;
+    transition: 0.5s;
+}
+
+.parent h1{
+    text-align: center;
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-weight: 800;
+    padding-bottom: 0;
+}
+
+
+.parent p{
+    text-align: center;
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-weight: 400;
+}
+
+
+.parent a{
+    background-color: #FF004D;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 25px;
+    border-radius: 8px;
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+
+.parent:hover .child{
+    /* display: block; */
+    top: 0;
+    transition: 0.5s;
+}
+
+.child::after{
+    background-color: #5BBCFF;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "";
+    top: 0;
+    left: 0;
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.parent:hover img{
+    transform: scale(1.2);
+    
+}

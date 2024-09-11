@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
+
+
+ .parent_div{
+    width: 300px;
+    
+    margin: 25px auto;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+
+}
+
+.child_div{
+    padding: 10% 5%;
+    /* display: none; */
+    position: absolute;
+    width: 90%;
+    height: 87%;
+    top: -500px;
+    left: 0;
+    z-index: 99;
+
+}
+
+
+.parent_div h1{
+    font-family: "Cabin", sans-serif;
+    font-weight: 900;
+    color: white;
+    padding-bottom: 0;
+    
+}
+
+.parent_div p{
+    font-family: "Cabin", sans-serif;
+    font-weight: 100;
+    color: #F5F7F8;
+   
+}
+
+.parent_div a{
+    background-color: #F9E400;
+    color: black;
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+    font-family: "Cabin", sans-serif;
+    font-weight: 800;
+    border-radius: 8px;
+    
+}
+
+.parent_div a:hover{
+    background-color: #FC2947;
+    color: white;
+}
+
+.parent_div img{
+    width: 100%;
+    max-width: 100%;
+    display: block;
+   
+}
+.parent_div:hover img{
+    transform: scale(1.2);
+    transition: 0.6s;
+}
+.parent_div:hover .child_div{
+    display: block;
+}
+ .child_div::after{
+    background-color: #0000FF;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    opacity: 0.57;
+ }
+
+ .parent_div:hover .child_div{
+    top: 0;
+    transition: 0.6s;
+    
+ }
+
+

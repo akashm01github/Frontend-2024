@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@100..900&display=swap');
+
+/* img{
+   max-width: 100%;
+
+   opacity: 1;
+} */
+
+/* img:hover{
+    opacity: 0.4;
+} */
+
+.child_service{
+    text-align: center;
+    color: white;
+    width: 300px;
+    margin: 25px auto;
+    position: relative;
+    overflow: hidden;
+}
+
+.child_service img{
+    width: 100%;
+    display: block;
+    max-width: 100%;
+    height: 100%;
+    transition: 0.5s;
+}
+
+.inner_service{
+    padding: 10% 5%;
+    /* display: none; */
+    position: absolute;
+    width: 90%;
+    height: 85%;
+    top: -500px;
+    left: 0;
+    z-index: 99;
+    transition: 0.9s;
+    
+}
+
+.child_service h2{
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-weight: 800;
+    font-size: 35px;
+    margin-bottom: 0;
+}
+
+
+
+
+.child_service a{
+    display: inline-block;
+    margin-top: 15px;
+    background-color: #F9E400;
+    font-size: 14px;
+    padding: 12px 25px;
+    font-family: "Noto Sans Bengali", sans-serif;
+    font-weight: 700;
+
+    border-radius: 8px;
+    text-decoration: none;
+    color: black;
+
+}
+
+
+.child_service:hover .inner_service{
+    /* display: block; */
+    top: 0;
+}
+
+
+.inner_service::after{
+    background-color: #FF0000;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    content: "";
+    top: 0;
+    left: 0;
+    opacity: 0.50;
+    z-index: -1;
+}
+
+
+.child_service:hover img{
+    transform: scale(1.2);
+}
+
+
