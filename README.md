@@ -6,7 +6,7 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 
 ## 🛠️ Technologies & Tools
 
-![HTML5](https://img.icons8.com/color/48/html-5.png) ![CSS3](https://img.icons8.com/color/48/css3.png) ![JavaScript](https://img.icons8.com/color/48/javascript--v1.png) ![VS Code](https://img.icons8.com/fluency/48/visual-studio-code-2019.png) ![Git](https://img.icons8.com/color/48/git.png) ![Figma](https://img.icons8.com/color/48/figma.png)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,git,github,vscode&theme=light)](https://skillicons.dev)
 
 ## 📅 Daily Topics and Projects
 
