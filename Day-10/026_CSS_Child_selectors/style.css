@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+
+}
+
+.parent{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.child{
+    background-color: #0E7CF4;
+    width: 50px;
+    padding-top: 10px;
+    height: 38px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 5px;
+    float: left;
+    margin-right: 20px;
+}
+
+p{
+    margin: 0;
+    padding: 0;
+    color: #232855;
+    font-weight: bold;  
+}
+
+
+/* Nth Child Code */
+
+/* .child:first-child{
+    background-color: #C886E5;
+}
+
+
+.child:last-child{
+    background-color: #00AF91;
+} */
+
+/* For Select a Specific Child  */
+
+/* .child:nth-child(4){
+    background-color: #E72929;
+} */
+
+/* .child:nth-last-child(3){
+    background-color: #F8B195;
+} */
+
+
+/* জোড়ায়  জোড়ায় সিলেক্ট করার জন্য  */
+
+/* .child:nth-child(odd){
+    background-color: #6A097D;
+}
+.child:nth-child(even){
+    background-color: #F9F54B;
+} */
+
+/* প্রথম তিনটে বাদ যাবে  */
+.child:nth-child(n+4){
+    background-color: #82DBD8;
+}
+
+form{
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+input[type=text]{
+    border: 1px solid #727070;
+    color: black;
+    padding: 15px 25px;
+    font-size: 20px;
+    border-radius: 5px;
+    float: left;
+}
+
+/* Button Field */
+
+input[type=button]{
+    background-color: #6796E5;
+    border: 1px solid #727070;
+    color: black;
+    padding: 15px 25px;
+    font-size: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    display: none;
+    transition: 0.6s;
+}
+
+
+/* Main Logic */
+
+input:not(:placeholder-shown) + input[type="button"]{
+    display: block;
+}
+
+
+
+
