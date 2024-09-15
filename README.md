@@ -1,6 +1,6 @@
 # 🚀 Akash's Front End Preparation
 
-![coding-gif](https://github.com/akashm01github/akashm01github/blob/main/img/Hand%20coding-amico.png)
+<img src="https://github.com/akashm01github/akashm01github/blob/main/img/Hand%20coding-amico.png" alt="coding-gif" style="width:100%; max-width:600px;">
 
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
 
