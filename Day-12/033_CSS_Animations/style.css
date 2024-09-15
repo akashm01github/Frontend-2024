@@ -1,0 +1,106 @@
+.one{
+    width: 100px;
+    height: 100px;
+    background-color: #F0A500;
+    margin: 30px 50px;
+    text-align: center;
+    transition: 0.5s;
+    display: inline-block;
+    animation-name: akash;
+    animation-duration: 7s;
+    animation-delay: 2s;
+    animation-iteration-count: 3;
+    
+}
+/* @keyframes akash{
+    from{
+        background-color: #F0A500;
+        width: 200px;
+        height: 200px;
+    }
+    to{
+        background-color: #8696FE;
+        width: 400px;
+        height: 400px;
+    }
+} */
+
+
+/* @keyframes akash{
+    0%{
+        background-color: #F0A500;
+        width: 100px;
+        height: 100px;
+    }
+    50%{
+        background-color: #00028C;
+        width: 400px;
+        height: 400px;
+    }
+    100%{
+        background-color: #FDAED8;
+        width: 200px;
+        height: 200px;
+    }
+} */
+
+
+
+
+.parent{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+
+
+}
+
+.two{
+    background-color: #00B8A9;
+    width: 100px;
+    height: 100px;
+    margin: 20px 20px;
+    border-radius: 50%;
+    position: absolute;
+    animation: rounds;
+    animation-duration: 5s;
+    /* animation-iteration-count: infinite; */
+}
+
+
+@keyframes rounds{
+    0%{
+        left: 0;
+        top: 0;
+    }
+    20%{
+        left: 300px;
+       
+        top: 0;
+    }
+    40%{
+        left: 300px;
+        
+        top: 300px;
+       
+    }
+    60%{
+        left: 0;
+        right: auto;
+        top: 300px;
+        bottom: 0;
+    }
+    75%{
+        left: 0;
+        top: 0;
+    }
+
+
+
+    100%{
+        left: 0;
+        top: 0;
+    }
+}
+

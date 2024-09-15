@@ -1,0 +1,34 @@
+
+/* যার যত Specificity Number বেশি সেটা কেই screen এ দেখাবে  */
+
+/* specificity number 111 */
+
+#test p.para{
+    background-color: #E5A5FF !important;
+}
+/* specificity number 111 */
+#test p.para{
+    background-color: #FFE775;
+}
+
+/* specificity number 101 (id =100 and p tag =1 total 101)  */
+#test p{
+    background-color: #7B77FF;
+}
+
+
+/* specificity number 20 */
+.child .para{
+    background-color: #C7B198;
+}
+
+/* specificity number 11 */
+p.para{
+    background-color: #F97300;
+}
+
+
+/* specificity number 1 */
+p{
+    background-color: red;
+}

@@ -1,0 +1,53 @@
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: #069A8E;
+    margin: 30px 50px;
+    text-align: center;
+    transition: 0.5s;
+    display: inline-block;
+    
+}
+
+/* .one:hover{
+    width: 400px;
+    height: 350px;
+    border: 15px solid black;
+} */
+
+.one:hover{
+    transform: translate(25px,20px);
+}
+
+
+.two{
+    width: 200px;
+    height: 200px;
+    background-color: #9BE3DE;
+
+    margin-top: 20px;
+    text-align: center;
+    margin: 20px 50px;
+    transition: 0.5s;
+    display: inline-block;
+}
+
+.two:hover{
+    transform: rotate(-180deg);
+}
+
+
+.three{
+    width: 200px;
+    height: 200px;
+    background-color: #C3FF93;
+
+    
+    text-align: center;
+    margin: 20px 60px;
+    transition: 0.5s;
+    display: inline-block;
+}
+.three:hover{
+    transform: scale(2,4);
+}

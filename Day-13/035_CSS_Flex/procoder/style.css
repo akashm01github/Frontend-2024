@@ -1,0 +1,100 @@
+:root {
+    --primary: #fdcb6e;
+    --sec: #dfe6e9;
+    --darkColor: #00b894;
+    --whiteColor: #fff;
+    --defaultWidth: 80%;
+  }
+  
+  *,
+  *::after,
+  *::before {
+    box-sizing: border-box;
+  }
+  body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    background: var(--sec);
+  }
+  .main_area{
+    width: var(--defaultWidth);
+    margin: 20px auto;
+    background-color: var(--primary);
+    padding: 10px;
+  }
+
+  .main{
+    display: flex;
+    /* flex-direction: column; */
+    /* flex-direction: row-reverse; */
+    /* flex-direction: column-reverse; */
+    /* flex-wrap: wrap; */
+    /* flex-flow: row wrap; */
+    /* Flex Flow = Flex Direction + Flex Wrap */
+    /* flex-flow: row-reverse wrap-reverse; */
+    flex-flow: row wrap;
+
+    /* Justify Content */
+    /* justify-content: end; */
+    /* by default start */
+    justify-content: start;
+    /* justify-content: end; */
+    justify-content: space-between;
+
+  }
+
+  
+  .main_area h2 {
+    text-align: center;
+    background: var(--darkColor);
+    padding: 10px;
+    color: var(--whiteColor);
+  }
+  .child {
+    background: var(--darkColor);
+    padding: 10px;
+    color: var(--whiteColor);
+    margin: 1%;
+    flex-basis: 28%;
+    
+    
+    
+  }
+  .child a {
+    background: var(--primary);
+    color: var(--darkColor);
+    display: inline-block;
+    transition: 0.5s;
+    padding: 10px 20px;
+    text-decoration: none;
+  }
+  .child a:hover {
+    background: var(--sec);
+    color: var(--primary);
+  }
+
+  .extra{
+    margin-bottom: 25px;
+    height: 300px;
+    background-color: var(--whiteColor);
+    align-items: baseline;
+  }
+
+  .extra p{
+    margin: 0;
+  }
+
+  .extra3 .child{
+    width: 50px;
+    height: 50px;
+    background-color: var(--primary);
+  }
+
+  .extra3{
+    align-content: space-around;
+  }
+
+  .extra4{
+    align-items: center;
+    justify-content: center;
+  }

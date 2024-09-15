@@ -1,0 +1,61 @@
+:root{
+    --akash_primary: #004225;
+    --akash_sec: #F0EDD4;
+    --dark_Color: #ED7D31;
+
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:  var(--akash_sec);
+}
+.top{
+    width: 80%;
+    height: 10%;
+    background-color: var(--akash_primary);
+
+    text-align: center;
+
+    margin: 15px auto ;
+    color: var(--dark_Color);
+    padding: 10px 20px;
+}
+
+.parent{
+    width: 80%;
+    height: 10%;
+    background-color: var(--dark_Color);
+    margin: 20px auto;
+    padding: 15px 20px;
+}
+
+.parent h3, p{
+    margin-bottom: 20px;
+    color: white;
+}
+
+.parent a{
+    
+    background-color: var(--akash_primary);
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 8px;
+    color: var(--dark_Color);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.parent a:hover{
+    background-color: var(--akash_sec);
+    color: var(--akash_primary);
+}
