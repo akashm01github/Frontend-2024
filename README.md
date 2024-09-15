@@ -21,5 +21,9 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 | [Day-7](https://github.com/akashm01github/Frontend-2024/tree/main/Day-7) | 08/09/2024 | CSS                         | CSS Font Style, CSS Icons, CSS Links, CSS Tables, and CSS Display. |
 | [Day-8](https://github.com/akashm01github/Frontend-2024/tree/main/Day-8) | 10/09/2024 | CSS                         | CSS Position, CSS Z-index, CSS Overflow, CSS Float, CSS Combinators, CSS Pseudo Classes & Elements. |
 | [Day-9](https://github.com/akashm01github/Frontend-2024/tree/main/Day-9) | 11/09/2024 | Project Using All of These Topics | Created a card element with animation. |
+| [Day-10](https://github.com/akashm01github/Frontend-2024/tree/main/Day-10) | 12/09/2024 | CSS Intermediate Topics      | Navigation Menu, Attribute Selector, CSS Forms, CSS Selectors, Website Layout. |
+| [Day-11](https://github.com/akashm01github/Frontend-2024/tree/main/Day-11) | 13/09/2024 | CSS - Project               | Created a simple login page. |
+| [Day-12](https://github.com/akashm01github/Frontend-2024/tree/main/Day-12) | 14/09/2024 | CSS Intermediate Topics      | Specificity, CSS Math, Box Sizing, CSS Transition, Transform, CSS Animation. |
+| [Day-13](https://github.com/akashm01github/Frontend-2024/tree/main/Day-13) | 15/09/2024 | CSS Advanced Topics          | CSS Variables, CSS Flex, and CSS Grid. |
 
 _(The table will be updated daily as I progress.)_
