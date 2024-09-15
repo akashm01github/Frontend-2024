@@ -1,6 +1,6 @@
 # 🚀 Akash's Front End Preparation
 
-![coding-gif](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)
+![coding-gif](https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?w=740&t=st=1726423327~exp=1726423927~hmac=d0a2a37ec7f0ce9c151be05df93778b382926e934e7f139d4d26861b667c6ea6)
 
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
 
