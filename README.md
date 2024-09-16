@@ -1,6 +1,7 @@
 # 🚀 Akash's Front End Preparation
 
-![coding-gif](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*nCpfU7AD35VLsljEvbVfSw.gif)
+[<img src='https://github.com/akashm01github/akashm01github/blob/main/img/frontend_banner.png?raw=true' alt='Akash Mukherjee'>](https://github.com/akashm01github/)
+
 
 
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
