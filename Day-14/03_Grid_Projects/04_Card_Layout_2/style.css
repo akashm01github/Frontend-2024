@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 40px;
+    width: 100%;
+    min-height: 100vh;
+    padding: 4vh;
+}
+
+[class ^="box-"]{
+    background-color: crimson;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: grid;
+    place-content: center;
+}
+
+.container{
+    display: grid;
+    height: calc(100vh - 4vh *2);
+    gap: 5vh;
+
+    grid-template-areas: 
+    "A A A A   A A A A   A A A A"
+    "B B B B   B B B B   B B C C"
+    "D D E E   E E E E   E E E E"
+    ;
+
+}
+
+.box-1{
+    grid-area: A;
+}
+.box-2{
+    grid-area: B;
+}
+.box-3{
+    grid-area: C;
+}
+.box-4{
+    grid-area: D;
+}
+.box-5{
+    grid-area: E;
+}
+
+
+
+@media(max-width:480px){
+    .container{
+        grid-template-areas: 
+        "A A A A   A A A A   A A A A"
+        "B B B B   B B B B   B B B B"
+        "C C C C   C C C C   C C C C"
+        "D D D D   D D E E   E E E E"
+        ;
+    
+    }
+}
+

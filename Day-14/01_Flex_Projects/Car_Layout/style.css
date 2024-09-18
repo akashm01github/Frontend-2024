@@ -1,0 +1,64 @@
+/* 
+GAP  : 4vh
+padding : 4vh
+color #48CAE4
+*/
+
+/* 
+Mobile: 480px
+
+Tablet: 768px
+
+Desktop: 1440px
+
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    width: 100%;
+    min-height: 100vh;
+    font-size: 45px;
+}
+
+
+/* Attribute Selector Used Here. */
+[class ^="block-" ]{
+    display: flex;
+    flex-direction: row;
+    height: calc(100vh / 3);
+    gap: 4vh;
+}
+
+[class ^="box-"]{
+    background-color: #c1c1c1;
+    border: 2px solid black;
+    border-radius: 10px;
+    flex-basis: calc(100% /3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 4vh;
+    padding: 4vh;
+    border: 1vh solid #48CAE4;
+}
+
+@media (max-width: 480px){
+    [class ^="block-" ]{
+        display: flex;
+        flex-direction: column;
+        height: 500px;
+        
+    }
+}
