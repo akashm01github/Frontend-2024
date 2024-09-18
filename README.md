@@ -2,8 +2,6 @@
 
 [<img src='https://github.com/akashm01github/akashm01github/blob/main/img/frontend_banner.png?raw=true' alt='Akash Mukherjee'>](https://github.com/akashm01github/)
 
-
-
 Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
 
 ## 🛠️ Technologies & Tools
@@ -26,6 +24,9 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 | [Day-10](https://github.com/akashm01github/Frontend-2024/tree/main/Day-10) | 12/09/2024 | CSS Intermediate Topics      | Navigation Menu, Attribute Selector, CSS Forms, CSS Selectors, Website Layout. |
 | [Day-11](https://github.com/akashm01github/Frontend-2024/tree/main/Day-11) | 13/09/2024 | CSS - Project               | Created a simple login page. |
 | [Day-12](https://github.com/akashm01github/Frontend-2024/tree/main/Day-12) | 14/09/2024 | CSS Intermediate Topics      | Specificity, CSS Math, Box Sizing, CSS Transition, Transform, CSS Animation. |
-| [Day-13](https://github.com/akashm01github/Frontend-2024/tree/main/Day-13) | 15/09/2024 | CSS Advanced Topics          | CSS Variables, CSS Flex, and CSS Grid. |
+| [Day-13](https://github.com/akashm01github/Frontend-2024/tree/main/Day-13) | 15/09/2024 | CSS Advanced Topics          | CSS Variables. |
+| [Day-14](https://github.com/akashm01github/Frontend-2024/tree/main/Day-14) | 16/09/2024 | CSS Advanced Topics          | CSS Flex Box and CSS Grid Layout. |
+| [Day-15](https://github.com/akashm01github/Frontend-2024/tree/main/Day-15) | 17/09/2024 | CSS Advanced Topics          | CSS Media Queries. |
+| [Day-16](https://github.com/akashm01github/Frontend-2024/tree/main/Day-16) | 18/09/2024 | CSS Advanced Topics          | CSS Units. |
 
 _(The table will be updated daily as I progress.)_
