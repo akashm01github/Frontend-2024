@@ -1,0 +1,69 @@
+/*  Tutorial REM, EM, VW, VH YouTube - https://youtu.be/6uJPTM0AaFc */
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  
+  body {
+    height: 100vh;
+  }
+  
+  #size {
+    position: absolute;
+  
+    /*  positioning screen size below our main text */
+    top: 35%;
+    left: 50%;
+  
+    transform: translate(-50%);
+  
+    color: red;
+    font-size: 35px;
+  }
+  
+  /*👇👇 Experiment Here 👇👇*/
+  
+  html {
+    font-size: 20px;
+  }
+  
+  .text {
+    font-size: 3em;
+    display: none;
+  }
+  
+  .box {
+    
+
+
+    width: 20vw;
+    height: 50vh;
+    background-color: skyblue;
+    display: grid;
+    place-content: center;
+    font-size: 25px;
+  
+
+  }
+  
+  /* @media (max-width: 1400px) {
+    html {
+      font-size: 25px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    html {
+      font-size: 18px;
+    }
+  }
+  
+  @media (max-width: 450px) {
+    html {
+      font-size: 12px;
+    }
+  } */
+  
