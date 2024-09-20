@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+    font-family: sans-serif;
+}
+
+.main{
+    width: 100%;
+    height: 100vh;
+    background-color: #B5C0D0;
+    
+}
+/* Nav Nar Part */
+.nav{
+    height: 100px;
+    width: 100%;
+    /* background-color: red; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+    padding: 0 30px;
+    
+}
+
+.nav h4{
+    font-size: 20px;
+    font-weight: 600;
+}
+.nav h4:hover{
+    color: #FF6600;
+    cursor: pointer;
+}
+
+.nav i{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    font-weight: 500;
+}
+
+
+.center{
+    width: 100%;
+    /* background-color: chartreuse; */
+    padding: 20px 80px;
+}
+
+.center h1{
+    font-size: 80px;
+    font-weight: 500;
+    line-height: 85px;
+}
+
+.center-in{
+    height: 200px;
+    /* background-color: red; */
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.center-in p{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 28px;
+}
+
+.right{
+    width: 20%;
+}
+
+.child{
+    /* background-color: yellow; */
+    padding: 20px 0;
+    border-top: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.child i{
+    font-size: 25px;
+    font-weight: 500;
+    opacity: 0;
+}
+
+.child:hover i{
+    opacity: 1;
+    cursor: pointer;
+    
+}
+
+.child a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+
+.bottom{
+    height:35%;
+    width: 100%;
+    /* background-color: red; */
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-position: 0 60%;
+}
