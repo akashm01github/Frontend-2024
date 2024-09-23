@@ -1,15 +1,3 @@
-# 🚀 Akash's Front End Preparation
-
-[<img src='https://github.com/akashm01github/akashm01github/blob/main/img/frontend_banner.png?raw=true' alt='Akash Mukherjee'>](https://github.com/akashm01github/)
-
-Welcome to my daily code and project repository! Here, you'll find all the code snippets, projects, and experiments I'm working on daily. This repository serves as my personal growth log and a showcase of my journey in coding and project development.
-
-## 🛠️ Technologies & Tools
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,figma,git,github,vscode&theme=light)](https://skillicons.dev)
-
-## 📅 Daily Topics and Projects
-
 | Day   | Date       | Topic/Project               | Description                                          |
 |-------|------------|-----------------------------|------------------------------------------------------|
 | [Day-1](https://github.com/akashm01github/Frontend-2024/tree/main/Day-1/1.%20HTML) | 01/09/2024 | HTML                        | Today I learned about HTML.                           |
@@ -28,5 +16,7 @@ Welcome to my daily code and project repository! Here, you'll find all the code 
 | [Day-14](https://github.com/akashm01github/Frontend-2024/tree/main/Day-14) | 16/09/2024 | CSS Advanced Topics          | CSS Flex Box and CSS Grid Layout. |
 | [Day-15](https://github.com/akashm01github/Frontend-2024/tree/main/Day-15) | 17/09/2024 | CSS Advanced Topics          | CSS Media Queries. |
 | [Day-16](https://github.com/akashm01github/Frontend-2024/tree/main/Day-16) | 18/09/2024 | CSS Advanced Topics          | CSS Units. |
+| Day-17 | 19/09/2024 | Project Using HTML & CSS    | Developed a project using HTML and CSS. |
+| Day-18 to Day-28 | 20/09/2024 to 30/09/2024 | Project Using HTML & CSS | Worked on multiple projects focusing on HTML & CSS. |
 
 _(The table will be updated daily as I progress.)_
