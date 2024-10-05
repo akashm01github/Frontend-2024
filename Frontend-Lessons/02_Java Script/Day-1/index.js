@@ -28,6 +28,7 @@ var sum =  num1+num2;
 var ans = sum * num5;
 
 let ans2  =  ans /2 ;
+
 console.log(sum);
 
 console.log(ans)
@@ -36,11 +37,12 @@ console.log(ans2);
 
 
 
-let name  = "Akash Mukherjee";
+let myname  = "Akash Mukherjee";
 
-console.log(name);
+console.log(myname);
 
 //Number 3 is Undefined.
+
 let num3;
 console.log("The Number3 is: "+num3);
 
@@ -88,9 +90,9 @@ let ans4 = (a++) * (--b);
 console.log(ans4);
 
 
-let ans3 = (a++) * (b--);
+let ans5 = (a++) * (b--);
 
-console.log(ans3);
+console.log(ans5);
 
 console.log(3!==4);
 
