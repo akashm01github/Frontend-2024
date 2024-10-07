@@ -19,4 +19,4 @@
 | Day-17 | 19/09/2024 | Project Using HTML & CSS    | Developed a project using HTML and CSS. |
 | Day-18 to Day-28 | 20/09/2024 to 30/09/2024 | Project Using HTML & CSS | Worked on multiple projects focusing on HTML & CSS. |
 
-_(The table will be updated daily as I progress.)_
+_(The table will be updated daily as I progress..)_
