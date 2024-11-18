@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    font-size: 40px;
+    width: 100%;
+    min-height: 100vh;
+}
+
+
+[class^="box-"]{
+    background-color: #D4BEE4;
+
+    display: grid;
+    place-items: center;
+    border: 2px solid black;
+
+    
+}
+
+
+.container{
+    display: grid;
+    gap: 50px;
+    min-height: 100vh;
+    grid-template: repeat(2,200px) / repeat(2,200px);
+
+    /* justify-items: center; */
+
+
+    justify-content: space-around;
+    
+    
+}
+
+
+
+/* .box-1{
+    
+}
+
+.box-2{
+    
+}
+
+.box-3{
+    
+} */

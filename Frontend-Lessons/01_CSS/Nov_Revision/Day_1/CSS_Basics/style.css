@@ -1,0 +1,22 @@
+.class_1{
+    background-color: red;
+    width: 400px;
+    height: 300px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 20vh;
+    border: 4px solid yellow;
+}
+
+.class_2{
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 300px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 2vh;
+    margin-left: 20vh;
+    border: 4px solid black;
+}
